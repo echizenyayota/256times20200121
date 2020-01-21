@@ -3,6 +3,9 @@ body {
 }
 
 .pgn {
+  width: 300px;
+  height: 200px;
+  margin: 16px auto;
   display: flex;
 }
 
