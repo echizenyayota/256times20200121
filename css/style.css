@@ -16,6 +16,11 @@ body {
   text-align: center;
   border :1px solid #ccc;
   line-height: 48px;
+  cursor: pointer;
+}
+
+.box:hover {
+  background-color: #ccc;
 }
 
 .pre {
